@@ -24,7 +24,7 @@ namespace Vamioon.Controllers
         public async Task<IActionResult> GetDisActiveLoansAsync()
         {
             //var mentorDtos = await _mentorService.GetAllNames();
-            //if (!mentorDtos.Any())
+            //if (!mentorDtos.Any()) 
             //{
             //    return BadReq(ApiMessage.MentorIsNotValid);
             //}
